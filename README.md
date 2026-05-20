@@ -1,4 +1,4 @@
-# 🔐 Personal Cybersecurity Home Lab
+# My Personal Cybersecurity Home Lab
 
 A hands-on cybersecurity lab I built to practice real-world penetration testing techniques in a safe, controlled environment.
 
